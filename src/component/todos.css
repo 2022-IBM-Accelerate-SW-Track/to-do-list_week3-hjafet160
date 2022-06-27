@@ -1,5 +1,11 @@
 .todoCollection {
-  max-width: 400px;
+  max-width: max-content;
   margin: auto;
   padding-bottom: 20px;
+}
+.emptyMessage {
+  font-family: Monaco, monospace;
+  text-transform: capitalize;
+  font-size: 30px;
+  
 }
